@@ -76,7 +76,6 @@ section {
 
 .header__title {
     margin-top: 40px;
-    font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-style: Italic;
     font-size: 48px;
@@ -173,7 +172,6 @@ a:hover{
 .product__category {
     margin-bottom: 12px;
     font-weight: 400;
-    font-style: 'Regular';
     letter-spacing: 0px;
 }
 
