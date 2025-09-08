@@ -135,6 +135,9 @@ a:hover{
 /* #region recommended */
 .recommended{
     margin-bottom: 120px;
+    max-width: 1020px;
+    margin: 0 auto;
+    margin-bottom: 120px;
 }
 
 .recommended__title {
