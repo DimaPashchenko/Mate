@@ -130,6 +130,7 @@ a:hover{
 
 .main {
     padding: 120px;
+    background-color: white;
 }
 /* #region recommended */
 .recommended{
@@ -193,7 +194,7 @@ a:hover{
     text-align: center;
 }
 /* #endregion */
-/* #category */
+/* #region category */
 .category {
     margin-bottom: 64px;
 }
@@ -260,3 +261,13 @@ a:hover{
     letter-spacing: 0px;
 }
 /* #endregion */
+.footer {
+    position: sticky;
+    bottom: 0;
+    z-index: -1;
+    height: 460px;
+    background-image: url(../img/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
